@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ulRAn/0o8XCDFdlnulEdp7ED+pQMdkhwdkO0cXaLu/PpA/X0PfIORRXQtXDzIrkwTZbRinvMsj82tGo44D0Acw==",
+  "dgSpecHash": "57YHpH0NSPhVrwZFu4fjS68ADqvCexcKOPVxZzFZpPF+y2tKDSoSSJZANimlYbjmCjrD4PhaAzhh1irdcWyY/Q==",
   "success": true,
-  "projectFilePath": "E:\\Instituto\\CSPharma\\DAL_CSPharmaV2\\DAL_CSPharmaV2.csproj",
+  "projectFilePath": "E:\\Instituto\\CSPharma\\CSPharma_v2\\DAL_CSPharmaV2\\DAL_CSPharmaV2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ángel Mora González\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Ángel Mora González\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.0\\microsoft.entityframeworkcore.7.0.0.nupkg.sha512",

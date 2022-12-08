@@ -1,0 +1,64 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CSPharma_V2
+build_property.RootNamespace = CSPharma_V2
+build_property.ProjectDir = E:\Instituto\CSPharma\CSPharma_v2\CSPharma_V2\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\Instituto\CSPharma\CSPharma_v2\CSPharma_V2
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/Instituto/CSPharma/CSPharma_v2/CSPharma_V2/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Instituto/CSPharma/CSPharma_v2/CSPharma_V2/Pages/EstadoDevolucion/ListEstadoDevolucion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXN0YWRvRGV2b2x1Y2lvblxMaXN0RXN0YWRvRGV2b2x1Y2lvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Instituto/CSPharma/CSPharma_v2/CSPharma_V2/Pages/EstadoEnvio/ListEstadoEnvio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXN0YWRvRW52aW9cTGlzdEVzdGFkb0VudmlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Instituto/CSPharma/CSPharma_v2/CSPharma_V2/Pages/EstadoPago/ListEstadoPago.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXN0YWRvUGFnb1xMaXN0RXN0YWRvUGFnby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Instituto/CSPharma/CSPharma_v2/CSPharma_V2/Pages/EstadoPedido/ListEstadoPedido.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXN0YWRvUGVkaWRvXExpc3RFc3RhZG9QZWRpZG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Instituto/CSPharma/CSPharma_v2/CSPharma_V2/Pages/GestionUsuarios/RegisterUsuario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VzdGlvblVzdWFyaW9zXFJlZ2lzdGVyVXN1YXJpby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Instituto/CSPharma/CSPharma_v2/CSPharma_V2/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Instituto/CSPharma/CSPharma_v2/CSPharma_V2/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Instituto/CSPharma/CSPharma_v2/CSPharma_V2/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Instituto/CSPharma/CSPharma_v2/CSPharma_V2/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Instituto/CSPharma/CSPharma_v2/CSPharma_V2/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Instituto/CSPharma/CSPharma_v2/CSPharma_V2/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-7ykwe33axl
