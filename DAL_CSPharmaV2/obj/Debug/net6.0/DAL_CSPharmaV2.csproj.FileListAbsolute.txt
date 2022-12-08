@@ -12,3 +12,17 @@ E:\Instituto\CSPharma\DAL_CSPharmaV2\obj\Debug\net6.0\refint\DAL_CSPharmaV2.dll
 E:\Instituto\CSPharma\DAL_CSPharmaV2\obj\Debug\net6.0\DAL_CSPharmaV2.pdb
 E:\Instituto\CSPharma\DAL_CSPharmaV2\obj\Debug\net6.0\DAL_CSPharmaV2.genruntimeconfig.cache
 E:\Instituto\CSPharma\DAL_CSPharmaV2\obj\Debug\net6.0\ref\DAL_CSPharmaV2.dll
+E:\Instituto\CSPharma\CSPharma_v2\DAL_CSPharmaV2\bin\Debug\net6.0\DAL_CSPharmaV2.deps.json
+E:\Instituto\CSPharma\CSPharma_v2\DAL_CSPharmaV2\bin\Debug\net6.0\DAL_CSPharmaV2.runtimeconfig.json
+E:\Instituto\CSPharma\CSPharma_v2\DAL_CSPharmaV2\bin\Debug\net6.0\DAL_CSPharmaV2.dll
+E:\Instituto\CSPharma\CSPharma_v2\DAL_CSPharmaV2\bin\Debug\net6.0\DAL_CSPharmaV2.pdb
+E:\Instituto\CSPharma\CSPharma_v2\DAL_CSPharmaV2\obj\Debug\net6.0\DAL_CSPharmaV2.csproj.AssemblyReference.cache
+E:\Instituto\CSPharma\CSPharma_v2\DAL_CSPharmaV2\obj\Debug\net6.0\DAL_CSPharmaV2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Instituto\CSPharma\CSPharma_v2\DAL_CSPharmaV2\obj\Debug\net6.0\DAL_CSPharmaV2.AssemblyInfoInputs.cache
+E:\Instituto\CSPharma\CSPharma_v2\DAL_CSPharmaV2\obj\Debug\net6.0\DAL_CSPharmaV2.AssemblyInfo.cs
+E:\Instituto\CSPharma\CSPharma_v2\DAL_CSPharmaV2\obj\Debug\net6.0\DAL_CSPharmaV2.csproj.CoreCompileInputs.cache
+E:\Instituto\CSPharma\CSPharma_v2\DAL_CSPharmaV2\obj\Debug\net6.0\DAL_CSPharmaV2.dll
+E:\Instituto\CSPharma\CSPharma_v2\DAL_CSPharmaV2\obj\Debug\net6.0\refint\DAL_CSPharmaV2.dll
+E:\Instituto\CSPharma\CSPharma_v2\DAL_CSPharmaV2\obj\Debug\net6.0\DAL_CSPharmaV2.pdb
+E:\Instituto\CSPharma\CSPharma_v2\DAL_CSPharmaV2\obj\Debug\net6.0\DAL_CSPharmaV2.genruntimeconfig.cache
+E:\Instituto\CSPharma\CSPharma_v2\DAL_CSPharmaV2\obj\Debug\net6.0\ref\DAL_CSPharmaV2.dll

@@ -1,0 +1,26 @@
+﻿@page
+@model CSPharma_V2.Pages.GestionUsuarios.RegisterModel
+@{
+}
+
+<div class="row">
+    <form>
+        <div class="form-control">
+            <label for="usuario" required>Codigo empleado</label>
+            <input type="text" id="usuario">
+        </div>
+        <div class="form-control">
+            <label for="contrasenya">Clave usuario</label>
+            <input type="password" id="contrasenya" required>
+        </div>
+        <div>
+            <label for="valContrasenya">Repetir contraseña</label>
+            <input type="password" id="valContrasenya" required>
+        </div>
+        <div>
+            <button action="submit" onsubmit="validacionRegister()">Registrar</button>
+        </div>
+    </form>
+
+</div>
+

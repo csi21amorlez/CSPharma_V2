@@ -8,6 +8,11 @@ builder.Services.AddRazorPages();
 
 builder.Services.AddDbContext<CspharmaInformacionalContext>(o => o.UseNpgsql(builder.Configuration.GetConnectionString("PostgreSQL")));
 
+builder.Services.AddSession(options =>
+{
+    options.IdleTimeout = TimeSpan.FromMinutes(5);
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -24,6 +29,7 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
+app.UseSession();
 
 app.MapRazorPages();
 

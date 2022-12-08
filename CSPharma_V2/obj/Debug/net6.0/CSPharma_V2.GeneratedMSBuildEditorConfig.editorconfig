@@ -35,8 +35,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXN0YWRvUGVkaWRvXExpc3RFc3RhZG9QZWRpZG8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/Instituto/CSPharma/CSPharma_v2/CSPharma_V2/Pages/GestionUsuarios/RegisterUsuario.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VzdGlvblVzdWFyaW9zXFJlZ2lzdGVyVXN1YXJpby5jc2h0bWw=
+[E:/Instituto/CSPharma/CSPharma_v2/CSPharma_V2/Pages/GestionUsuarios/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VzdGlvblVzdWFyaW9zXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Instituto/CSPharma/CSPharma_v2/CSPharma_V2/Pages/GestionUsuarios/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR2VzdGlvblVzdWFyaW9zXFJlZ2lzdGVyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [E:/Instituto/CSPharma/CSPharma_v2/CSPharma_V2/Pages/Index.cshtml]
